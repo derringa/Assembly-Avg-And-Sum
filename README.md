@@ -9,3 +9,6 @@ Error validation:
 
 Number Array:
 * Once confirmed, each number was stored for arithmetic by manual array management.
+
+Procedures:
+* All parameters were passed by address on the system stack and were cleaned up at the conclusion of each procedure.
