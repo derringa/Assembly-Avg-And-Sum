@@ -1,4 +1,4 @@
-# Assembly-InOut-Management #
+# Assembly-IO-Management #
 MASM Assembly program that implements low-level I/O procedures and macros, including a ReadVal and WriteVal procedure for unsigned integers, and getString and displayString macros Using Kip Irvine library for x86 processors.
 
 ## Design ##
